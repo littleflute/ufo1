@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Let it Roll.mp3";		
+f[2]	= "02 Shoot Shoot.mp3";		
+f[3]	= "03 High Flyer.mp3";		
+f[4]	= "04 Love Lost Love.mp3";		
+f[5]	= "05 Out in the Street.mp3";		
+f[6]	= "06 Mother Mary.mp3";		
+f[7]	= "07 Too Much of Nothing.mp3";		
+f[8]	= "08 Dance Your Life Away.mp3";		
+f[9]	= "09 This Kid's [Including 'Between the Walls'].mp3";		
+f[10]	= "10 A Million Miles [-].mp3";		
+f[11]	= "11 Let it Roll [-][Live].mp3";		
+f[12]	= "12 This Kid's [-][Live].mp3";		
