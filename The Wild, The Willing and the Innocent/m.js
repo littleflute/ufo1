@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Chains Chains.mp3";		
+f[2]	= "02 Long Gone.mp3";		
+f[3]	= "03 The Wild, The Willing and the Innocent.mp3";		
+f[4]	= "04 It's Killing Me.mp3";		
+f[5]	= "05 Makin' Moves.mp3";		
+f[6]	= "06 Lonely Heart.mp3";		
+f[7]	= "07 Couldn't Get It Right.mp3";		
+f[8]	= "08 Profession of Violence.mp3";		
+f[9]	= "09 Long Gone [_][-][Recorded Live at the Hammersmith Odeon 29-01-81].mp3";		
+f[10]	= "10 Lonely Heart [_][-][Recorded Live at the Hammersmith Odeon 29-01-81].mp3";		
+f[11]	= "11 Makin' Moves [_][-][Recorded Live at the Marquee, London 15-11-80].mp3";		
